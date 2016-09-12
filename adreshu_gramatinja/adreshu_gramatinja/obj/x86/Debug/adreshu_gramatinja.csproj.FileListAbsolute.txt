@@ -1,0 +1,23 @@
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\bin\Debug\adreshu_gramatinja.exe
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\bin\Debug\adreshu_gramatinja.pdb
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\adreshu_gramatinja.csprojResolveAssemblyReference.cache
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\adreshu_gramatinja.csproj.GenerateResource.Cache
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\adreshu_gramatinja.exe
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\adreshu_gramatinja.pdb
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\bin\Debug\itextsharp.dll
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\bin\Debug\itextsharp.pdfa.dll
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\bin\Debug\itextsharp.xtra.dll
+F:\2015_3kurss_rudens\kursi\dotNet\mana_paka\adreshu_gramatinja\adreshu_gramatinja\bin\Debug\itextsharp.xml
+C:\Users\deniv\kursi 2016\inzinierija\2md_deniss_ivanovs\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\adreshu_gramatinja.exe
+C:\Users\deniv\kursi 2016\inzinierija\2md_deniss_ivanovs\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\adreshu_gramatinja.pdb
+C:\Users\deniv\kursi 2016\inzinierija\2md_deniss_ivanovs\adreshu_gramatinja\adreshu_gramatinja\bin\Debug\adreshu_gramatinja.exe
+C:\Users\deniv\kursi 2016\inzinierija\2md_deniss_ivanovs\adreshu_gramatinja\adreshu_gramatinja\bin\Debug\adreshu_gramatinja.pdb
+C:\Users\deniv\kursi 2016\inzinierija\2md_deniss_ivanovs\adreshu_gramatinja\adreshu_gramatinja\bin\Debug\itextsharp.xml
+C:\Users\deniv\kursi 2016\inzinierija\2md_deniss_ivanovs\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\adreshu_gramatinja.csprojResolveAssemblyReference.cache
+C:\Users\deniv\kursi 2016\inzinierija\2md_deniss_ivanovs\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\deniv\kursi 2016\inzinierija\2md_deniss_ivanovs\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\deniv\kursi 2016\inzinierija\2md_deniss_ivanovs\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\deniv\kursi 2016\inzinierija\2md_deniss_ivanovs\adreshu_gramatinja\adreshu_gramatinja\obj\x86\Debug\adreshu_gramatinja.csproj.GenerateResource.Cache

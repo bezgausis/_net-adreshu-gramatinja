@@ -1,0 +1,45 @@
+// palaizh exi failu
+//adreshu gramatinja - saglaba info xml formatā
+//ir iespejas pievienot ierakstu, saglabat(rediģetos), dzēst
+//apskatit tabula vardus un epastus pec rand izveleties vienu
+
+start
+atver formu adreshu_gramatinja
+while (nav aizverta forma adreshu_gramatinja)
+	
+	if pievieno
+		then
+		nolasa informacija no ievades laukiem(vards uzvards epasts adrese DOB piezīmes),
+		izveido ieraksta objektu person(vards uzvards epasts adrese DOB piezīmes),
+		attēlo sarakstā
+	endif
+	if saglabāt
+		then
+		if ir izvelēts no saraksta
+			then saglaba objekta izmainas xml
+		endif
+	if noņemt
+		then ir izvelets no saraksta
+			then izdzesh no saraksta
+		endif
+	
+	if apskata tabulaEpasti
+		atver formu tabulaEpasti
+		saglaba xml
+		izveido tabulu pievieno xml
+		endif
+			while (nav aizverta forma tabulaEpasti)
+				if nospiezh random then parada random epastus	
+				enif
+			endwhile
+endwhile
+saglaba xml
+end
+			
+			
+			
+		
+
+
+
+		
